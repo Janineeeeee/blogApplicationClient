@@ -1,0 +1,19 @@
+.banner {
+  background-color: white;
+  color: #BB5A3A;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.banner p {
+  font-size: 1.5em;
+}
+
+.banner-link {
+  color: #000000;
+}
